@@ -74,7 +74,7 @@ def scrape():
 
 
         # transform to html table
-        mars_html_table = mars_facts_df.to_html()
+        mars_html_table = mars_facts_df.to_html(index=False)
         mars_html_table.replace('\n', '')
         mars_facts_data['mars_facts_table'] = mars_html_table
 
