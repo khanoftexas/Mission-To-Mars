@@ -1,4 +1,4 @@
 # Mission-To-Mars
 
-![ScreenShot]Mission-to-Mars.png)
+![ScreenShot](Mission-to-Mars.png)
 
