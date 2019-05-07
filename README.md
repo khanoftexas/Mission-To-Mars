@@ -1,3 +1,3 @@
 # Mission-To-Mars
 
-!(../master/Mission-To-Mars/Mission To Mars.png).
+!(https://github.com/khanoftexas/Mission To Mars/Mission To Mars.png)
